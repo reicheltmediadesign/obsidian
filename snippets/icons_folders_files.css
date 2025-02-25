@@ -7,5 +7,3 @@
     content: '📰 ';
     filter: saturate(0) opacity(0.3);
 }  
-
-/* .nav-folder-title[data-path = "Clippings"] .nav-folder-title-content::before {content: '📰';} */
