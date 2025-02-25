@@ -1,0 +1,11 @@
+.nav-folder-title .nav-folder-title-content::before {
+    content: '📂 ';
+    filter: saturate(0) opacity(0.7);
+}  
+
+.nav-file-title .nav-file-title-content::before {
+    content: '📰 ';
+    filter: saturate(0) opacity(0.3);
+}  
+
+/* .nav-folder-title[data-path = "Clippings"] .nav-folder-title-content::before {content: '📰';} */
